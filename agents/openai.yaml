@@ -1,0 +1,4 @@
+interface:
+  display_name: "ICM Setup"
+  short_description: "Set up ICM workspace organization and Git rules"
+  default_prompt: "Use $icm-setup to initialize this project with ICM instructions and basic Git maintenance."
